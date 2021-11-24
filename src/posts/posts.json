@@ -1,0 +1,6 @@
+{
+    "author": "Jaydeep Godara",
+    "layout": "post",
+    "tags": "post",
+    "permalink": "posts/{{ title | slug }}/"
+}

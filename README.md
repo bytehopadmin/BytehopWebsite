@@ -1,2 +1,2 @@
-# BytehopWebsite
-Website Repo for bytehop
+# Bytehop
+Bytehop Blog

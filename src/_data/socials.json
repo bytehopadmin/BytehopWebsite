@@ -1,0 +1,14 @@
+[
+    {
+        "link" : "https://twitter.com/bytehopgames",
+        "icon" : "fa-twitter"
+    }, 
+    {
+        "link" : "https://github.com/JaydeepGo",
+        "icon" : "fa-github"
+    },   
+    {
+        "link" : "mailto:jaydeep415@gmail.com",
+        "icon" : "fa-envelope"
+    }
+]

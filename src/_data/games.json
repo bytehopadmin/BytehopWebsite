@@ -1,0 +1,32 @@
+[
+    {     
+        "name" : "Cube Flip",
+        "link" : "/Games/Cube_Flip/index.html",
+        "buildUrl" : "/Games/Cube_Flip/Build/Cube Flip_WebGL.json", 
+        "icon" : "/Games/Cube_Flip/icon.png"
+    }, 
+    {     
+        "name" : "Cube Flip",
+        "link" : "/Games/Cube_Flip/index.html",
+        "buildUrl" : "/Games/Cube_Flip/Build/Cube Flip_WebGL.json", 
+        "icon" : "/Games/Cube_Flip/icon.png"
+    },
+    {     
+        "name" : "Cube Flip",
+        "link" : "/Games/Cube_Flip/index.html",
+        "buildUrl" : "/Games/Cube_Flip/Build/Cube Flip_WebGL.json", 
+        "icon" : "/Games/Cube_Flip/icon.png"
+    },
+    {     
+        "name" : "Cube Flip",
+        "link" : "/Games/Cube_Flip/index.html",
+        "buildUrl" : "/Games/Cube_Flip/Build/Cube Flip_WebGL.json", 
+        "icon" : "/Games/Cube_Flip/icon.png"
+    }, 
+    {     
+        "name" : "Cube Flip",
+        "link" : "/Games/Cube_Flip/index.html",
+        "buildUrl" : "/Games/Cube_Flip/Build/Cube Flip_WebGL.json", 
+        "icon" : "/Games/Cube_Flip/icon.png"
+    }
+]
