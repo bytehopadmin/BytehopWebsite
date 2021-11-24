@@ -12,18 +12,19 @@ module.exports = function(eleventyConfig) {
     });
 
     return {
-        dir: {
+      pathPrefix: "/BytehopWebsite/",
+      dir: {
             input: 'src',
             output: 'docs',
             data: './_data',
             includes: './_includes',
             layouts: './_layouts'
           },
-          templateFormats: [
-            'md',
-            'njk',
-            'ico'
-          ],
-          htmlTemplateEngine: 'njk'
+      templateFormats: [
+        'md',
+        'njk',
+        'ico'
+      ],
+      htmlTemplateEngine: 'njk'
     }
 }

@@ -16,7 +16,7 @@ layout: base.njk
         {{ post.data.content | safe | truncate(300) }}
       </div>
     {% endif %}	 
-     <img src="{{ post.data.previewImage }}" alt="Girl in a jacket" width="100" height="100"> 
+     <img src="{{ post.data.previewImage | url }}" alt="Girl in a jacket" width="100" height="100"> 
  
     
 	    <div class="post-footer">
