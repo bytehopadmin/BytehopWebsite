@@ -1,6 +1,6 @@
 ---
 layout: about.njk
-title: Jaydeep Godara
+title: Bytehop
 eleventyNavigation:
   key: About 
 ---
